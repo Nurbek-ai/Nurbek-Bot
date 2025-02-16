@@ -9,9 +9,6 @@ smart_bot/
 │   │── ocr.py             # Extracts text from images/PDFs
 │   │── storage.py         # Cloud storage handling (Google Drive, Dropbox)
 │
-│── config/
-│   │── __init__.py
-│   │── settings.py        # Loads environment variables and config settings
 │
 │── database/
 │   │── __init__.py
